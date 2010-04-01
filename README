@@ -1,0 +1,11 @@
+Adapt (Arbitrary Data Protocol Translator)
+
+Mission
+To improve data protocol CODECs by generating the implementation, documentation, and test cases using a domain specific language.
+
+Vision
+Adapt is a system of tools that is centered around a domain specific language called Arbitrary Data Protocol Language (ADPL).  The tools allow a user to describe any data protocol in ADPL.  The ADPL description is then processed by an ADPL interpreter to generate source code that implements a CODEC for the data protocol, documentation for the protocol, and test cases for the generated code.
+
+The interpreter can be extended to generate source code in any desired language.  The documentation can also be extended to output in any form desired.  The test cases can be extended as well.
+
+ 
